@@ -30,7 +30,7 @@ E **designer e editor de vídeo**, domino todas as ferramentas da **Adobe Creati
 
 ## 💡 Citação Favorita
 
-> *"O único limite para o que você pode fazer é o quanto você acredita em si mesmo."*
+> *""*
 
 
 ## 📚 Sempre Aprendendo
