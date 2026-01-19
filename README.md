@@ -10,9 +10,7 @@
 
 Desenvolvedor **Full Stack** com expertise em **JavaScript, PHP, WordPress e Python**. Especializado em criar soluções web completas e escaláveis, combinando desenvolvimento de ponta com design visual impactante.
 
-Como **designer e editor de vídeo**, domino todas as ferramentas da **Adobe Creative Suite, DaVinci Resolve e CapCut**, entregando projetos que unem tecnologia e criatividade. Também atuo com **marketing digital**, criando estratégias que conectam marcas ao seu público.
-
-**CEO da HTMX**, sempre buscando inovar e explorar novas tecnologias para criar experiências digitais memoráveis. Meu trabalho é transformar visões em realidade através de código e design.
+E **designer e editor de vídeo**, domino todas as ferramentas da **Adobe Creative Suite, DaVinci Resolve e CapCut**, entregando projetos que unem tecnologia e criatividade. Também atuo com **marketing digital**, criando estratégias que conectam marcas ao seu público.
 
 ---
 
@@ -56,20 +54,6 @@ Plataforma educativa gamificada sobre sustentabilidade que torna o aprendizado s
 Transforme sua casa em um ambiente conectado, seguro e eficiente com a tecnologia de automação residencial.
 
 **Tech Stack:** `HTML` `CSS` `JavaScript`
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanRbo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff)
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanRbo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=00d4ff&text_color=ffffff)
-
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanRbo&theme=tokyonight&hide_border=true&background=0a0a0a&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
-
-</div>
 
 ---
 
