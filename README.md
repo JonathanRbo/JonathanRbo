@@ -73,8 +73,6 @@ Transforme sua casa em um ambiente conectado, seguro e eficiente com a tecnologi
 
 ---
 
----
-
 ## 💡 Citação Favorita
 
 > *"O único limite para o que você pode fazer é o quanto você acredita em si mesmo."*
@@ -87,8 +85,6 @@ Transforme sua casa em um ambiente conectado, seguro e eficiente com a tecnologi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-ribeiro-a1a66a2b3)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathan.rbo)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JonathanRbo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jribeirojonathan@gmail.com)
 
 </div>
 
@@ -105,7 +101,6 @@ const jonathanRibeiro = {
     tools: ["VS Code", "Git", "Postman"],
     focus: ["Full Stack Development", "Web Design", "Video Editing", "Marketing Digital"],
     currentRole: "CEO at HTMX",
-    passion: "Transformar ideias em experiências digitais inovadoras"
 };
 ```
 
