@@ -30,7 +30,7 @@ E **designer e editor de vídeo**, domino todas as ferramentas da **Adobe Creati
 
 ## 💡 Citação Favorita
 
-> *""*
+> *"*O sucesso é a soma de pequenos esforços - repetidos dia sim, e no outro dia também.**"*
 
 
 ## 📚 Sempre Aprendendo
