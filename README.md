@@ -73,24 +73,6 @@ Transforme sua casa em um ambiente conectado, seguro e eficiente com a tecnologi
 
 ---
 
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JonathanRbo&theme=tokyo-night&hide_border=true&bg_color=0a0a0a&color=00d4ff&line=00d4ff&point=ffffff)
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=JonathanRbo&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
 ---
 
 ## 💡 Citação Favorita
