@@ -87,23 +87,6 @@ Transforme sua casa em um ambiente conectado, seguro e eficiente com a tecnologi
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jonathan.rbo)
 
 </div>
-
----
-
-## 🎨 Áreas de Atuação
-
-```javascript
-const jonathanRibeiro = {
-    code: ["JavaScript", "PHP", "Python", "TypeScript"],
-    frameworks: ["React", "Node.js", "WordPress", "HTMX"],
-    design: ["Photoshop", "Illustrator", "Figma"],
-    video: ["Premiere Pro", "After Effects", "DaVinci Resolve", "CapCut"],
-    tools: ["VS Code", "Git", "Postman"],
-    focus: ["Full Stack Development", "Web Design", "Video Editing", "Marketing Digital"],
-    currentRole: "CEO at HTMX",
-};
-```
-
 ---
 
 ## 📚 Sempre Aprendendo
@@ -118,9 +101,6 @@ const jonathanRibeiro = {
 <div align="center">
 
   ### 💙 Desenvolvido com muito café e paixão pela programação
-
-  ![Visitor Count](https://profile-counter.glitch.me/JonathanRbo/count.svg)
-
   **Obrigado pela visita!** ⭐
 
 </div>
