@@ -9,7 +9,10 @@
 ## 🚀 Sobre Mim
 
 Desenvolvedor **Full Stack** com expertise em **JavaScript, PHP, WordPress**. Especializado em criar soluções web completas e escaláveis, combinando desenvolvimento de ponta com design visual impactante.
+
 **Designer e editor de vídeo**, domino todas as ferramentas da **Adobe Creative Suite, DaVinci Resolve e CapCut**, entregando projetos que unem tecnologia e criatividade. Também atuo com **marketing digital**, criando estratégias que conectam marcas ao seu público.
+
+Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de agentes IA**, **Claude Code** para desenvolvimento acelerado, e **Flowise** para criar fluxos de automação inteligentes que transformam ideias em soluções práticas.
 
 ---
 
@@ -24,6 +27,12 @@ Desenvolvedor **Full Stack** com expertise em **JavaScript, PHP, WordPress**. Es
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-36C?style=for-the-badge&logo=htmx&logoColor=white)
+![VanJS](https://img.shields.io/badge/VanJS-FF6B6B?style=for-the-badge&logo=javascript&logoColor=white)
+
+### IA & Automação
+![Claude Code](https://img.shields.io/badge/Claude_Code-181825?style=for-the-badge&logo=anthropic&logoColor=D97757)
+![Flowise](https://img.shields.io/badge/Flowise-000000?style=for-the-badge&logo=flow&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
 
 ---
 
@@ -35,7 +44,9 @@ Desenvolvedor **Full Stack** com expertise em **JavaScript, PHP, WordPress**. Es
 ## 📚 Sempre Aprendendo
 
 - 🌱 Atualmente explorando novas tecnologias e frameworks
+- 🤖 Orquestrando agentes de IA para automação inteligente
 - 🎯 Focado em criar soluções web escaláveis e performáticas
+- 🛠️ Desenvolvendo sites modernos com Claude Code e ferramentas de IA
 - 💼 Aberto a colaborações e novos projetos
 - 🚀 Buscando constantemente inovar no desenvolvimento web
 
@@ -47,3 +58,8 @@ Desenvolvedor **Full Stack** com expertise em **JavaScript, PHP, WordPress**. Es
   **Obrigado pela visita!** ⭐
 
 </div>
+
+
+
+
+
