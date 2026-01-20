@@ -52,7 +52,7 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 
 <div align="center">
 
-  ### 💙 Desenvolvido com muito café e paixão pela programação
+  ### 💙 Desenvolvendo com muito café e paixão pela programação
   **Obrigado pela visita!** ⭐
 
 </div>
