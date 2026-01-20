@@ -43,12 +43,10 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 
 ## 📚 Sempre Aprendendo
 
-- 🌱 Atualmente explorando novas tecnologias e frameworks
-- 🤖 Orquestrando agentes de IA para automação inteligente
-- 🎯 Focado em criar soluções web escaláveis e performáticas
-- 🛠️ Desenvolvendo sites modernos com Claude Code e ferramentas de IA
-- 💼 Aberto a colaborações e novos projetos
-- 🚀 Buscando constantemente inovar no desenvolvimento web
+- 🌱 Explorando novas tecnologias e frameworks
+- 🎯 Criar soluções web escaláveis e performáticas
+- 🛠️ Desenvolver sites modernos com novas tecnologias e ia
+- 🚀 Inovar no desenvolvimento web
 
 ---
 
