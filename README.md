@@ -7,7 +7,7 @@
 </div>
 
 ## 🚀 Sobre Mim
-https://jonathanrbo.github.io/portifolio/<br>
+https://jonathanrbo.github.io/portfolio/<br>
 Desenvolvedor **Full Stack** com expertise em **JavaScript, PHP, WordPress**. Especializado em criar soluções web completas e escaláveis, combinando desenvolvimento de ponta com design visual impactante.
 
 **Designer e editor de vídeo**, domino todas as ferramentas da **Adobe Creative Suite, DaVinci Resolve e CapCut**, entregando projetos que unem tecnologia e criatividade. Também atuo com **marketing digital**, criando estratégias que conectam marcas ao seu público.
