@@ -9,7 +9,7 @@
 ## 🚀 Sobre Mim
 Desenvolvedor **Full Stack** com expertise em **JavaScript, PHP, WordPress**. Especializado em criar soluções web completas e escaláveis, combinando desenvolvimento de ponta com design visual impactante.
 
-**Designer e editor de vídeo**, domino todas as ferramentas da **Adobe Creative Suite, DaVinci Resolve e CapCut**, entregando projetos que unem tecnologia e criatividade. Também atuo com **marketing digital**, criando estratégias que conectam marcas ao seu público.
+**Designer e editor de vídeo**, domino todas as ferramentas da **Adobe Creative, DaVinci Resolve e CapCut**, entregando projetos tecnologicos e criativos. Também atuo com **marketing digital**, criando estratégias que conectam marcas ao seu público.
 
 Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de agentes IA**, **Claude Code** para desenvolvimento acelerado, e **Flowise** para criar fluxos de automação inteligentes que transformam ideias em soluções práticas.
 
