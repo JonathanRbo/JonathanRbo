@@ -47,15 +47,6 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 - 🛠️ Desenvolver sites modernos com novas tecnologias e ia
 - 🚀 Inovar no desenvolvimento web
 
----
-
-## 📊 Produtividade
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathanRbo&theme=tokyonight&hide_border=true)](https://github.com/JonathanRbo)
-
-</div>
 
 ---
 
