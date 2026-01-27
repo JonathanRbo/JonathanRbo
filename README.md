@@ -49,6 +49,18 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 
 ---
 
+## 📊 Produtividade
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanRbo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonathanRbo&theme=tokyonight)
+
+</div>
+
+---
+
 <div align="center">
 
   ### 💙 Desenvolvendo com muito café e paixão pela programação
