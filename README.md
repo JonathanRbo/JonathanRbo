@@ -39,6 +39,14 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 
 > *"*O sucesso é a soma de pequenos esforços - repetidos dia sim, e no outro dia também.**"*
 
+## 📊 Produtividade
+
+<p align="center">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=JonathanRbo&show_icons=true&theme=tokyonight"/>
+    <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanRbo&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&card_width=320"/>
+</p>
+
+---
 
 ## 📚 Sempre Aprendendo
 
