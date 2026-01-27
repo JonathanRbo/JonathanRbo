@@ -53,7 +53,7 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=JonathanRbo&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanRbo&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true&hide_rank=false&include_all_commits=true&count_private=true&card_width=400)
 
 </div>
 
