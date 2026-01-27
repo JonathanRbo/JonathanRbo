@@ -47,6 +47,7 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 - 🛠️ Desenvolver sites modernos com novas tecnologias e ia
 - 🚀 Inovar no desenvolvimento web
 
+------
 
 ## 📊 Estatísticas GitHub
 
