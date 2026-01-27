@@ -59,7 +59,9 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 
 <div align="center">
 
-  ### 💙 Desenvolvendo com muito café e paixão pela programação
+  <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="10%" />
+
+  ### Desenvolvendo com muito café e paixão pela programação
   **Obrigado pela visita!** ⭐
 
 </div>
