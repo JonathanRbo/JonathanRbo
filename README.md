@@ -43,7 +43,8 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 
 | Stats | Productive Time |
 |:---:|:---:|
-| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanRbo&theme=dracula) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonathanRbo&theme=dracula&utcOffset=-3) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanRbo&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonathanRbo&theme=nord_dark&utcOffset=-3) |
+
 
 
 ---
