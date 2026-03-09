@@ -1,4 +1,6 @@
 # 👋 Olá, eu sou o Jonathan Ribeiro!
+[![Github](https://img.shields.io/github/followers/theRoughCode?label=Follow&style=social)](https://github.com/JonathanRbo)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=theRoughCode.JonathanRbo)
 
 <div align="center">
   
