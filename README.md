@@ -57,7 +57,6 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 - 🎯 Criar soluções web escaláveis e performáticas
 - 🛠️ Desenvolver sites modernos com novas tecnologias e ia
 - 🚀 Inovar no desenvolvimento web
-- 
 ---
 
 <div align="center">
