@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Designer+%26+Video+Editor;CEO+of+HTMX;Marketing+Digital)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Designer+%26+Video+Editor;CEO+of+HTMX;Marketing+Digital)
 
 </div>
 
@@ -57,19 +57,12 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 - 🎯 Criar soluções web escaláveis e performáticas
 - 🛠️ Desenvolver sites modernos com novas tecnologias e ia
 - 🚀 Inovar no desenvolvimento web
-
+- 
 ---
 
 <div align="center">
-
   <img src="https://user-images.githubusercontent.com/74038190/216655813-c9147cb2-cfee-4955-b591-52cac08f1f60.gif" width="30%" />
 
   ### Desenvolvendo com muito café e paixão pela programação
   **Obrigado pela visita!** ⭐
-
 </div>
-
-
-
-
-
