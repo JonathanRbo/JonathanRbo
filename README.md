@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Jonathan Ribeiro!
 [![Github](https://img.shields.io/github/followers/JonathanRbo?label=Follow&style=social)](https://github.com/JonathanRbo)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=theRoughCode.JonathanRbo)
-
+  
 <div align="center">
   
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Designer+%26+Video+Editor;CEO+of+HTMX;Marketing+Digital)
@@ -46,8 +46,6 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 | Status | produtividade |
 |:---:|:---:|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanRbo&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonathanRbo&theme=nord_dark&utcOffset=-3) |
-
-
 
 ---
 
