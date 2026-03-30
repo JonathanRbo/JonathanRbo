@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou o Jonathan Ribeiro!
 [![Github](https://img.shields.io/github/followers/JonathanRbo?label=Follow&style=social)](https://github.com/JonathanRbo)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=theRoughCode.JonathanRbo)
-  
+
 <div align="center">
-  
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Designer+%26+Video+Editor;CEO+of+HTMX;Marketing+Digital)
 
 </div>
@@ -14,6 +14,8 @@ Desenvolvedor **Full Stack** com expertise em **JavaScript, PHP, WordPress**. Es
 **Designer e editor de vídeo desde 2016**, com mais de **10 anos na área criativa**. Domino todas as ferramentas da **Adobe Creative Suite, DaVinci Resolve e CapCut**, entregando projetos tecnológicos e criativos. Também atuo com **marketing digital**, criando estratégias que conectam marcas ao seu público.
 
 Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de agentes IA**, **Claude Code** para desenvolvimento acelerado, e **Flowise** para criar fluxos de automação inteligentes que transformam ideias em soluções práticas.
+
+Atualmente cursando **Sistemas de Informação** na **PUC**.
 
 ---
 
@@ -83,4 +85,5 @@ Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de ag
 
   ### Desenvolvendo com muito café e paixão pela programação
   **Obrigado pela visita!** ⭐
-</div>
+
+ [![Conta secundaria para a PUC](https://img.shields.io/badge/Conta_secundaria-PUC_|_Sistemas_de_Informação-181825?style=for-the-badge&logo=github&logoColor=3483fa)](https://github.com/JonathanRbo-puc)
