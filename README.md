@@ -15,7 +15,7 @@ Desenvolvedor **Full Stack** com expertise em **JavaScript, PHP, WordPress**. Es
 
 Apaixonado por **Inteligência Artificial**, trabalho com **orquestração de agentes IA**, **Claude Code** para desenvolvimento acelerado, e **Flowise** para criar fluxos de automação inteligentes que transformam ideias em soluções práticas.
 
-Atualmente cursando **Sistemas de Informação** na **PUC**.
+Atualmente cursando **Sistemas de Informação** 1 semestre na **PUC**.
 
 ---
 
@@ -70,14 +70,6 @@ Atualmente cursando **Sistemas de Informação** na **PUC**.
 |:---:|:---:|
 | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JonathanRbo&theme=nord_dark) | ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JonathanRbo&theme=nord_dark&utcOffset=-3) |
 
----
-
-## 📚 Sempre Aprendendo
-
-- 🌱 Explorando novas tecnologias e frameworks (HTMX, VanJS, React)
-- 🤖 Orquestração de agentes IA e automação com Flowise
-- 🎯 Soluções web escaláveis com WordPress, PHP e JavaScript
-- 📱 Marketing digital, SEO e estratégias de conversão
 ---
 
 <div align="center">
